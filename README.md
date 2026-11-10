@@ -66,7 +66,3 @@ The script currently runs a sample query:
 - The project relies on external APIs and valid API keys.
 - It fetches documentation pages from the public LangChain docs website.
 - Retrieval results are stored in the `retrieved` directory at runtime.
-
-## License
-
-This project is intended for educational and experimentation purposes.
