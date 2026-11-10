@@ -1,0 +1,6 @@
+requests
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+deepagents
